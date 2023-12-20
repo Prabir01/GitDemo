@@ -1,0 +1,74 @@
+{
+  "claim": {
+    "claim_details": {
+      "id": 20002464,
+      "tenant_id": 7,
+      "status": "closed",
+      "decision": "approved",
+      "owner": "LChalmers@insurx.com.au",
+      "catastrophe_event": "CAT 185 Sydney East Hail Storm 20th December 2018 BZI"
+    },
+    "incident_details": {
+      "loss_at": "2018-12-20T00:00:00.000+11:00",
+      "reported_on": "2019-01-14",
+      "external_number": null,
+      "description": "hail damage to poly carbonate roof sheeting and skylight",
+      "severity_level": 3,
+      "primary_loss_code": "Hail",
+      "secondary_loss_code": null
+    },
+    "policy_details": {
+      "policy_type": "Home Building & Contents Insurance  - Listed Events",
+      "policy_number": "P2009180080",
+      "start_on": "2018-09-20",
+      "finish_on": "2019-09-20",
+      "status": "active",
+      "total_premium": null,
+      "outstanding_premium": null,
+      "percentage_excess": null,
+      "policy_excess": 500
+    },
+    "policyholder_details": {
+      "business_name": null,
+      "business_contact_name": null,
+      "first_name": "Ezekial",
+      "last_name": "Elias",
+      "phone": null,
+      "phone_mobile": "+61 409 811 254",
+      "email": null,
+      "address_line_primary": "33 Brighton Blvd",
+      "address_line_secondary": null,
+      "zip": "2026",
+      "city": "Bondi Beach",
+      "state": "NSW"
+    },
+    "informant_details": {
+      "contact_type": "broker",
+      "first_name": "Angela",
+      "last_name": "Reid",
+      "phone": "+61 2 9680 1700",
+      "phone_mobile": null,
+      "email": "angela@andrewsinsurance.com.au",
+      "created_at": "2019-01-14T03:34:54.000Z"
+    },
+    "loss_location": {
+      "address_line_primary": "33 Brighton Blvd",
+      "address_line_secondary": null,
+      "zip": "2026",
+      "city": "Bondi Beach",
+      "state": "NSW"
+    },
+    "police_details": {
+      "is_police_reported": false,
+      "police_reference_number": null,
+      "police_details": null
+    },
+    "custom_fields": {
+      "Excess Type": "Basic Excess"
+    },
+    "contacts": []
+  },
+  "meta": {
+    "status": "success"
+  }
+}

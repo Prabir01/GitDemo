@@ -1,0 +1,74 @@
+{
+  "claim": {
+    "claim_details": {
+      "id": 20002545,
+      "tenant_id": 7,
+      "status": "reopened",
+      "decision": "approved",
+      "owner": "LChalmers@insurx.com.au",
+      "catastrophe_event": null
+    },
+    "incident_details": {
+      "loss_at": "2018-11-21T17:00:00.000+11:00",
+      "reported_on": "2019-01-15",
+      "external_number": null,
+      "description": "Insured's fence has been blown down during the wind storm on 21/11",
+      "severity_level": 5,
+      "primary_loss_code": "Storm",
+      "secondary_loss_code": null
+    },
+    "policy_details": {
+      "policy_type": "Home Buildings and Contents Insurance  - Accidental Damage",
+      "policy_number": "P0907180611",
+      "start_on": "2018-08-21",
+      "finish_on": "2019-08-21",
+      "status": "active",
+      "total_premium": null,
+      "outstanding_premium": null,
+      "percentage_excess": null,
+      "policy_excess": 300
+    },
+    "policyholder_details": {
+      "business_name": null,
+      "business_contact_name": null,
+      "first_name": "B",
+      "last_name": "Comagon",
+      "phone": null,
+      "phone_mobile": null,
+      "email": null,
+      "address_line_primary": "19 Jackson Terrace",
+      "address_line_secondary": null,
+      "zip": "5085",
+      "city": "Enfield",
+      "state": "SA"
+    },
+    "informant_details": {
+      "contact_type": "broker",
+      "first_name": "Jess",
+      "last_name": "Tripodi",
+      "phone": "+61 8 8294 2444",
+      "phone_mobile": null,
+      "email": "Jess@baysideins.com.au",
+      "created_at": "2019-01-15T00:36:52.000Z"
+    },
+    "loss_location": {
+      "address_line_primary": "19 Jackson Terrace",
+      "address_line_secondary": null,
+      "zip": "5085",
+      "city": "Enfield",
+      "state": "SA"
+    },
+    "police_details": {
+      "is_police_reported": false,
+      "police_reference_number": null,
+      "police_details": null
+    },
+    "custom_fields": {
+      "Excess Type": "Basic Excess"
+    },
+    "contacts": []
+  },
+  "meta": {
+    "status": "success"
+  }
+}

@@ -1,0 +1,138 @@
+{  
+   "claim":{  
+      "claim_details":{  
+         "id":20002603,
+         "tenant_id":7,
+         "status":"open",
+         "decision":"approved",
+         "owner":"DHull@claimcentral.com.au",
+         "catastrophe_event":null
+      },
+      "incident_details":{  
+         "loss_at":"2019-01-15T17:50:00.000+11:00",
+         "reported_on":"2019-01-16",
+         "external_number":"HC038003",
+         "description":"Ins stationary in traffic at lights North Rd \u0026 Hawthorn Rd heading northbound on North Road.  TP behind ins in right lane.  TP tried to overtake ins to get to the righ turning lane and sideswiped ins vehicle, damaging right rear side.",
+         "severity_level":5,
+         "primary_loss_code":"Multi Vehicle",
+         "secondary_loss_code":"Collision"
+      },
+      "policy_details":{  
+         "policy_type":"Motor Insurance -   Comprehensive",
+         "policy_number":"P1510180065",
+         "start_on":"2018-10-24",
+         "finish_on":"2019-10-24",
+         "status":"active",
+         "total_premium":null,
+         "outstanding_premium":null,
+         "percentage_excess":null,
+         "policy_excess":0.0
+      },
+      "policyholder_details":{  
+         "business_name":"Gaby Zipor",
+         "business_contact_name":"Ilan Zipor",
+         "first_name":"Ilan",
+         "last_name":"Zipor",
+         "phone":null,
+         "phone_mobile":"+61 418 774 984",
+         "email":"izip@live.com.au",
+         "address_line_primary":"14 Howard Ave",
+         "address_line_secondary":null,
+         "zip":"3204",
+         "city":"Ormond",
+         "state":"VIC"
+      },
+      "informant_details":{  
+         "contact_type":"insured",
+         "first_name":"Ilan",
+         "last_name":"Zipor",
+         "phone":"+61 1300 242 136",
+         "phone_mobile":null,
+         "email":null,
+         "created_at":"2019-01-15T22:21:48.000Z"
+      },
+      "loss_location":{  
+         "address_line_primary":"North Rd",
+         "address_line_secondary":"Hawthorn Rd",
+         "zip":"3162",
+         "city":"Caulfield South",
+         "state":"VIC"
+      },
+      "police_details":{  
+         "is_police_reported":false,
+         "police_reference_number":null,
+         "police_details":null
+      },
+      "vehicle_details":{  
+         "vehicle_type":"car",
+         "make":"VW",
+         "model":"Golf",
+         "year":2017,
+         "vin":null,
+         "registration_number":"1LE8IO",
+         "use":"private",
+         "vehicle_modifications":null,
+         "gross_vehicle_mass":null,
+         "odometer_reading":null,
+         "badging":null,
+         "is_hire_car_coverage":false
+      },
+      "driver_details":{  
+         "first_name":"Ilan",
+         "last_name":"Zipor",
+         "date_of_birth":null,
+         "license_type":null,
+         "license_number":null,
+         "license_year":null,
+         "license_valid":false,
+         "address_line_primary":"14 Howard Ave",
+         "address_line_secondary":null,
+         "zip":"3204",
+         "city":"Ormond",
+         "state":"VIC"
+      },
+      "towing_details":{  
+         "require_towing":false,
+         "tow_request":false,
+         "vehicle_drivable":false
+      },
+      "vehicle_location":{  
+         "address_line_primary":"14 Howard Ave",
+         "address_line_secondary":null,
+         "zip":"3204",
+         "city":"Ormond",
+         "state":"VIC"
+      },
+      "custom_fields":{  
+         "Assessment Type":"Assess and Authorise",
+         "Excess Information":null,
+         "Excess Rebate":null,
+         "Excess Type":null
+      },
+      "contacts":[  
+         {  
+            "id":3193,
+            "email":null,
+            "first_name":"Benjamin D.",
+            "last_name":"Frey",
+            "full_name":"Benjamin D. Frey",
+            "phone":null,
+            "phone_mobile":"+61 402 123 712",
+            "created_at":"2019-01-15T22:20:48.000Z",
+            "contact_type":"third_party",
+            "contact_type_text":"Third Party",
+            "preferred_contact":"phone",
+            "company_name":null,
+            "business_name":null,
+            "address_line_primary":"11 Mount St",
+            "address_line_secondary":null,
+            "zip":"3181",
+            "city":"Prahran",
+            "state":"VIC"
+         }
+      ]
+   },
+   "meta":{  
+      "status":"success"
+   }
+}
